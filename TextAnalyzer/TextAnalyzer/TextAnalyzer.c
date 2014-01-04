@@ -24,9 +24,9 @@ void analyzer_text(char *full_path) {
 		return;
 	}
 
-	printf("------------------------------------------------------\n");
+	printf("-------------------------------------------------------\n");
 	printf("Analyzing %s file..........\n", full_path);
-	printf("------------------------------------------------------\n");
+	printf("-------------------------------------------------------\n");
 
 	display_character_count(fp);
 	printf("Press any key...\n\n");
