@@ -1,4 +1,5 @@
 //// testing...git
+/// this line is only wg_br1 branch...
 #define TOTAL_COUNT 1000
 #define MAX_WORD 256
 #define ESC 27
