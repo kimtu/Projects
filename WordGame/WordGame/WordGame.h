@@ -1,4 +1,3 @@
-//// testing...git
 #define TOTAL_COUNT 1000
 #define MAX_WORD 256
 #define ESC 27
